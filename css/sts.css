@@ -1,0 +1,22 @@
+
+          .brand1{
+      height: 100px;
+    }
+  @media (max-width: 765px) { 
+    .brand{
+    height: 68px;
+    } }
+    @media (max-width: 429px) { 
+    .brand{
+    margin-left: 18px;
+    padding-right: 50px;
+    }
+    .tggl{
+      margin-left: 30px;
+      } 
+    .sec{
+        min-height: 600px;
+      }
+    .jd{
+      padding-left: 20px;
+      } } 
